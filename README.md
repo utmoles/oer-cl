@@ -152,7 +152,7 @@ Welche Hemnisse sehen Lehrende bei der Verwendung von OER-Inhalten in Ihrer Lehr
 
 <!-- class="reference"-->
 > "_Anreicherung digitaler Objekte mit Metadaten in OPAL – Implementierung einer Schnittstelle zur Anbindung externer Recherchesysteme_", 2017/2018, [Link](https://bildungsportal.sachsen.de/impulse/projekt/anreicherung-digitaler-objekte-mit-metadaten-in-opal-implementierung-einer-schnittstelle-zur-anbindung-externer-recherchesysteme/)
-             {{0-1}}
+
 Das Projekt der UB zielte 2018 darauf ab, die im LMS OPAL gekapselten, freien (sic!) Inhalte von außen verfügbar zu machen und prototypisch im Suchmaschinenindex von finc einzubinden, damit sie über die sächsischen Bibliothekskataloge nachweisbar und genutzt werden können.
 
 ![](32e9d015ca4e16a98f4952a90429e4ca89d20d40.png)
