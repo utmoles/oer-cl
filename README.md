@@ -342,9 +342,9 @@ flowchart
     class BASIC,Metadatenaggregation,Evaluation gray
 ```
 
-Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggregation](https://github.com/TUBAF-IFI-ConnectedLecturer/Data_aggregation). Die gesamte Pipeline ist in Python implementiert und nutzt für die AI Komponenten eine Nvidia DGX2. Als LLM kommt aktuell ein [llama3](https://ollama.com/library/gemma3) zum Einsatz.
+Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggregation](https://github.com/TUBAF-IFI-ConnectedLecturer/Data_aggregation).
 
-> Die Durchführung der KI-basierten Metadatenerhebung nahm auf einer DGX2 etwa 62 Stunden in Anspruch. Die NVIDIA DGX-2 aus dem Jahr 2020 fasst 16 GPUs (NVIDIA Tesla V100 32GB) mit bis zu zwei Petaflops an AI-Rechenleistung zusammen. Dabei lief das Llama3-Modell auf bis zu acht der V100 Grafikkarten. Im Laufe der Entwicklung wurde mit weiteren Modellen (Llama3.1, Gemma2, Gemma3, Mistral) experimentiert, insbesondere die Schlagwortgenerierung zeigte mit dem Llama3-Modell die besten Ergebnisse.
+> Die Durchführung der KI-basierten Metadatenerhebung nahm auf einer DGX2 etwa 62 Stunden in Anspruch. Die NVIDIA DGX-2 aus dem Jahr 2020 fasst 16 GPUs (NVIDIA Tesla V100 32GB) mit bis zu zwei Petaflops an AI-Rechenleistung zusammen. Dabei lief das Llama3-Modell [llama3](https://ollama.com/library/gemma3) auf bis zu acht der V100 Grafikkarten. Im Laufe der Entwicklung wurde mit weiteren Modellen (Llama3.1, Gemma2, Gemma3, Mistral) experimentiert, insbesondere die Schlagwortgenerierung zeigte mit dem Llama3-Modell die besten Ergebnisse.
 
 ## Ergebnisse
 
