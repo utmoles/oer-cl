@@ -155,7 +155,7 @@ Welche Hemnisse sehen Lehrende bei der Verwendung von OER-Inhalten in Ihrer Lehr
 
 Das Projekt der UB zielte 2018 darauf ab, die im LMS OPAL gekapselten, freien (sic!) Inhalte von außen verfügbar zu machen und prototypisch im Suchmaschinenindex von finc einzubinden, damit sie über die sächsischen Bibliothekskataloge nachweisbar und genutzt werden können.
 
-***********************************
+
 
              {{0-1}}
 ***********************************
@@ -165,7 +165,7 @@ Das Projekt der UB zielte 2018 darauf ab, die im LMS OPAL gekapselten, freien (s
 ***********************************
 
 
-***********************************
+
 
              {{1-2}}
 ***********************************
@@ -427,10 +427,14 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
 
 **Ergebnis in Suchmaschine:** (tbc.)
 
+{{2-1}}
+********************************
 vorher:    
 ![](3d80ca26510d6726c589011edd6268e8a57fed77.png)
-
-nachher:    
+********************************
+{{2-2}}
+********************************
+nachher:
 ![](704b61fac92d7f778fe668b3aef8fadc46a0c1de.png)
 
 ********************************
