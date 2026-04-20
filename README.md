@@ -403,6 +403,8 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
 
 ![](81cedaf44f326e61ac707c1384088780b1c9ba73.png)
 
+> Validierung: aus allen drei QUellen werden rohe Namen als Strings extrahiert. Dann läuft das LLM drüber und sucht pro Mitautor nach Vorname, Name und Titel. Diese Ergebnisse werden mit langen internationalen Namenslisten abgeglichen. Dann wird fusioniert - wenn OPAL mit gültigen Einträgen exisitert, gewinnt diese Info, sonst KI und ganz am Ende file:author
+
 ### DDC-Klassifikation
 
 > Dewey-Klassen von 000 bis 999 wurden mit einer Liste an Bezeichnern bei der Anfrage übergeben. Von den ursprünglich 13.486 Dewey-Zuordnungen für 4.548 Dokumente waren lediglich fünf Einträge enthalten, die keine Klassifikation zuließen. Die anschließende Analyse zeigte 202 verschiedene DDC-Notationen mit durchschnittlich drei Klassifikationen pro Dokument.
@@ -516,7 +518,7 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
 
 <div class="left">
 
-> Vielen Dank für Ihr Interesse! Wir freuen uns auf Ihre Fragen und Anregungen.
+> Vielen Dank für Ihr Interesse! Paper @BFP und Vorträge auf BiblioCon
 
 Sebastian Zug
 
