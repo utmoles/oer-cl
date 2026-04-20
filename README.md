@@ -468,6 +468,19 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
   ]
 }
 ```
+```
+{
+  "rows" : [
+    {
+      "id" : "opal-oer-6mOhjfscZK2A",
+      "title_sub" : "Bereich I.pdf",
+      "footnote" : "CC BY-NC-ND 4.0 Int.",
+      "url" : "https://bildungsportal.sachsen.de/opal/oer/6mOhjfscZK2A",
+    }
+  ]
+}
+```
+
 ********************************
 
         {{2-3}}
