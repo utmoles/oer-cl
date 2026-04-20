@@ -427,16 +427,47 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
 
 **Ergebnis in Suchmaschine:** (tbc.)
 
-{{2-1}}
-********************************
-vorher:    
-![](3d80ca26510d6726c589011edd6268e8a57fed77.png)
-********************************
-{{2-2}}
-********************************
-nachher:
-![](704b61fac92d7f778fe668b3aef8fadc46a0c1de.png)
-
+```
+{
+  "rows" : [
+    {
+      "﻿pipe:ID" : "6mOhjfscZK2A",
+      "collection" : "OPAL",
+      "id" : "finc-172-6mOhjfscZK2A",
+      "pipe:file_type" : "pdf",
+      "opal:filename" : "Bereich I.pdf",
+      "opal:oer_permalink" : "https://bildungsportal.sachsen.de/opal/oer/6mOhjfscZK2A",
+      "url" : "https://bildungsportal.sachsen.de/opal/oer/6mOhjfscZK2A",
+      "opal:license" : "CC BY-NC-ND 4.0 Int.",
+      "license" : "CC BY-NC-ND 4.0 Int.",
+      "file:created" : "2019-10-07 08:29:07+00:00",
+      "file:modified" : "2019-10-07 08:29:07+00:00",
+      "file:creator" : "LaTeX with hyperref",
+      "file:producer" : "pdfTeX-1.40.20",
+      "file:format" : "PDF 1.5",
+      "file:page_count" : "8.0",
+      "physical" : "8 Seiten, Dateityp: pdf, 179 KB",
+      "file:size" : "179 KB",
+      "ai:title" : "Vorlesung Technische Mechanik I - AGBF, TU Dresden - WiSe 201920",
+      "title" : "Vorlesung Technische Mechanik I - AGBF, TU Dresden - WiSe 201920",
+      "ai:type" : "Vorlesungsfolien",
+      "format" : "Vorlesungsfolien",
+      "ai:affiliation_final" : "Technische Universität Dresden",
+      "author_corporate" : "Technische Universität Dresden",
+      "ai:affiliation_source" : "ai",
+      "ai:affiliation_raw" : "Technische Universität Dresden",
+      "ai:keywords_ext" : "Starre Korper, Technische Mechanik, Kraft, Moment, Einheitsvektor, Koordinatensystem, Freiheitsgrad, Lagerung, Statik, Dynamik, Bewegung, Drehachse, Drehsinn, Rechte-Hand-Regel, Schnittprinzip",
+      "ai:keywords_gen" : "Starre Körper, Technische Mechanik, Freiheitsgrade, Lagerung, Kräfte, Momente, Schnittprinzip, Wirkungslinien, Zerlegung von Kraften, Basisvektoren, Koordinatensysteme, Newton, Einheitsvektoren, Drehachse, Drehsinn",
+      "ai:keywords_dnb" : "Technische Mechanik, Starrer Körper, Kraft, Moment, Einheitsvektor, Koordinatensystem, Freiheitsgrad, Lagerung, Schnittprinzip, Rechte-Hand-Regel, Drehachse, Drehsinn, Newton, Mechanische Betrachtung, Starre Körpertheorie",
+      "topic" : "Technische Mechanik, Starrer Körper, Kraft, Moment, Einheitsvektor, Koordinatensystem, Freiheitsgrad, Lagerung, Schnittprinzip, Rechte-Hand-Regel, Drehachse, Drehsinn, Newton, Mechanische Betrachtung, Starre Körpertheorie",
+      "ai:dewey" : "notation: 620 | label: Ingenieurwissenschaften und zugeordnete Tätigkeiten | score: 0.8 | hierarchy_level: 3",
+      "ai:dewey_method" : "hierarchical",
+      "ai:summary" : "Die Vorlesung Technische Mechanik I behandelt grundlegende Begriffe und Konzepte der Mechanik, wie starre Körper, Kräfte, Momente und Schnittprinzipien, um den Lernenden ein Verständnis für die Beschreibung und Analyse von mechanischen Systemen zu vermitteln. Durch die Erläuterung von Kraft- und Momentenberechnungen sowie der Anwendung des Schnittprinzips sollen die Studierenden in die Lage versetzt werden, komplexe mechanische Probleme zu lösen und das Verhalten von Körpern unter verschiedenen Lasten zu verstehen. Die Lernenden gewinnen ein tieferes Verständnis für die technische Mechanik und können ihre Fähigkeiten in der Dimensionierung und Analyse von mechanischen Systemen verbessern, indem sie die präsentierten Konzepte und Methoden anwenden.",
+      "contents" : "Die Vorlesung Technische Mechanik I behandelt grundlegende Begriffe und Konzepte der Mechanik, wie starre Körper, Kräfte, Momente und Schnittprinzipien, um den Lernenden ein Verständnis für die Beschreibung und Analyse von mechanischen Systemen zu vermitteln. Durch die Erläuterung von Kraft- und Momentenberechnungen sowie der Anwendung des Schnittprinzips sollen die Studierenden in die Lage versetzt werden, komplexe mechanische Probleme zu lösen und das Verhalten von Körpern unter verschiedenen Lasten zu verstehen. Die Lernenden gewinnen ein tieferes Verständnis für die technische Mechanik und können ihre Fähigkeiten in der Dimensionierung und Analyse von mechanischen Systemen verbessern, indem sie die präsentierten Konzepte und Methoden anwenden."
+    }
+  ]
+}
+```
 ********************************
 
         {{2-3}}
