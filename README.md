@@ -468,6 +468,9 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
   ]
 }
 ```
+
+---
+
 ```
 {
   "rows" : [
