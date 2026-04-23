@@ -403,7 +403,7 @@ Die Umsetzung der gesamten Pipeline ist als Open Source verfügbar: [Data_aggreg
 
 ![](81cedaf44f326e61ac707c1384088780b1c9ba73.png)
 
-> Validierung: aus allen drei QUellen werden rohe Namen als Strings extrahiert. Dann läuft das LLM drüber und sucht pro Mitautor nach Vorname, Name und Titel. Diese Ergebnisse werden mit langen internationalen Namenslisten abgeglichen. Dann wird fusioniert - wenn OPAL mit gültigen Einträgen exisitert, gewinnt diese Info, sonst KI und ganz am Ende file:author
+> Die Validierung der Namen erfolgt über einen Abgleich der extrahierten Strings aus opal:, file: und ai:-Domäne gegen lange internationale Namenslisten. Ranking: Wenn OPAL mit gültigen Einträgen exisitert, gewinnt diese Info, sonst KI und ganz am Ende file:author.
 
 ### DDC-Klassifikation
 
